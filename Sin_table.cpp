@@ -47,4 +47,5 @@ int main() {
         }
     break;
     } while (true);
+    std::cout << "Thanks for playing" << std::endl;
 }
